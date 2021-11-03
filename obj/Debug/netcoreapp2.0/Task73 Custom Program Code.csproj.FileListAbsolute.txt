@@ -1,0 +1,11 @@
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/bin/Debug/netcoreapp2.0/Task73 Custom Program Code.deps.json
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/bin/Debug/netcoreapp2.0/Task73 Custom Program Code.runtimeconfig.json
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/bin/Debug/netcoreapp2.0/Task73 Custom Program Code.runtimeconfig.dev.json
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/bin/Debug/netcoreapp2.0/Task73 Custom Program Code.dll
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/bin/Debug/netcoreapp2.0/Task73 Custom Program Code.pdb
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/obj/Debug/netcoreapp2.0/Task73 Custom Program Code.csprojResolveAssemblyReference.cache
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/obj/Debug/netcoreapp2.0/Task73 Custom Program Code.csproj.CoreCompileInputs.cache
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/obj/Debug/netcoreapp2.0/Task73 Custom Program Code.AssemblyInfoInputs.cache
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/obj/Debug/netcoreapp2.0/Task73 Custom Program Code.AssemblyInfo.cs
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/obj/Debug/netcoreapp2.0/Task73 Custom Program Code.dll
+/Users/hothanh/Desktop/Study/ObjectOrientedDevelopment/Task73 Custom Program Code/obj/Debug/netcoreapp2.0/Task73 Custom Program Code.pdb

@@ -1,0 +1,1 @@
+/Users/hothanh/.splashkit/commands/mcs/SplashKit.cs
